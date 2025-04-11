@@ -1,0 +1,4 @@
+(SUM([CY Sales]) - SUM([PY Sales]))/ SUM([PY Sales])
+
+▲ 0.0%; ▼ -0.0%;
+
