@@ -67,14 +67,15 @@ This interactive dashboard helps users quickly understand:
 
 I’m **Prashant Kumar Sundge**, a data enthusiast passionate about turning data into actionable insights using tools like Tableau, Python, and SQL.
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/prashantkumar-sundge/)  
-📁 Explore more of my dashboards on [Tableau Public](https://public.tableau.com/app/profile/prashantkumar.sundge)
+📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/prashantkumar-sundge/](https://www.linkedin.com/in/prashantsundge/))  
+📁 Explore more of my dashboards on [Tableau Public](https://public.tableau.com/app/profile/prashantkumar.sundge/vizzes)
 
 ---
 
 ## ⭐ Acknowledgements
 
 Special thanks to [Baraa Khatib Salkini](https://www.linkedin.com/in/baraa-khatib-salkini/) for providing valuable guidance and inspiration on building insightful Tableau dashboards.
+[Youtube Link](https://www.youtube.com/watch?v=dahrmqT5GD4&t=5280s)
 
 ---
 
